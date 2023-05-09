@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kenagt
-- 👀 I’m interested in fullstack .NET and mobile development
+- 👀 I’m interested in fullstack .NET and mobile development (Swift, SwiftUI, Java)
 - 🌱 I’m currently learning Python, Flask, Docker
 - 💞️ I’m looking to collaborate on new interesting stuff and to learn something new
 - 📫 How to reach me:
